@@ -69,6 +69,6 @@ Deep Learning, Machine Learning, NLP, Bayesian Methods, Social Network Analysis,
 
 ## ⚡ Fun Fact
 
-- I’ve built systems for finance plus a freeware school timetable generator powered by AI!
-- I genuinely enjoy learning and sharing knowledge, especially about intelligent systems and functional programming.
+- I genuinely enjoy learning and sharing knowledge, especially about deep learning, AI and programming.
+
 
